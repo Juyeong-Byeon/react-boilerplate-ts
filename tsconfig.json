@@ -1,0 +1,14 @@
+// javascript
+// tsconfig.json
+{
+    "compilerOptions": {
+      "jsx": "react",
+      "target": "esnext",
+      "moduleResolution": "node",
+      "allowJs": true,
+      "noEmit": true,
+      "strict": true,
+      "isolatedModules": true,
+      "esModuleInterop": true,
+    }
+  }
